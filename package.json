@@ -1,7 +1,7 @@
 {
     "name": "Konoha-Launcher",
     "preductname": "Konoha Launcher",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Launcher Minecraft 2024 officiel de la Konoha Corp by Vic",
     "main": "src/app.js",
     "author": {
@@ -9,7 +9,7 @@
         "email": "contact@luuxis.fr",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://konohacorporation.go.yj.fr/launcher",
+    "url": "http://konohacorp.go.yj.fr/launcher",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
